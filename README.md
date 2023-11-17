@@ -1,11 +1,10 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://camo.githubusercontent.com/799ab8397303627bde872354ed56ccc7f927ea67805c166df9e479361221da51/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313136373630303139372f766563746f722f66726f6e742d656e642d646576656c6f706d656e742d7765622d62616e6e65722d636f6e636570742e6a70673f733d3137303636376126773d30266b3d323026633d654e6c33577434724468314b5055495035415834546b6d61456b314b5f39434d78446a6c75356b52326d453d))]
+[![MasterHead](https://camo.githubusercontent.com/799ab8397303627bde872354ed56ccc7f927ea67805c166df9e479361221da51/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313136373630303139372f766563746f722f66726f6e742d656e642d646576656c6f706d656e742d7765622d62616e6e65722d636f6e636570742e6a70673f733d3137303636376126773d30266b3d323026633d654e6c33577434724468314b5055495035415834546b6d61456b314b5f39434d78446a6c75356b52326d453d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreyas Nigudkar</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 <img align="right" alt="coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas190401&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas190401" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas190401" alt="shreyas190401" /></a> </p>
 
 - 🔭 I’m currently working on [Vanguard University](https://vanguarduniversity.000webhostapp.com/)
 
