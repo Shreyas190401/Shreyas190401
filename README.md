@@ -24,18 +24,21 @@
 
 ## 🚀 Technologies
 
-![html](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwind_css-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![git](https://img.shields.io/badge/git-orangered?style=for-the-badge&logo=git&logoColor=white)
+![html](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![tailwindcss](https://img.shields.io/badge/tailwind_css-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![git](https://img.shields.io/badge/git-orangered?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔗 Connect with me
 [![instagram](https://img.shields.io/badge/instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_shrex)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasnigudkar)
+
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Shreyas190401)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas190401&show_icons=true&locale=en&layout=compact" alt="shreyas190401" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas190401&show_icons=true&locale=en" alt="shreyas190401" /></p>
