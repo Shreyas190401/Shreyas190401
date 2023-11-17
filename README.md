@@ -20,7 +20,7 @@
 ## 🙋‍♂️ About Me
 - 🏫 BEIT (Bachelor of Engineering in Information Technology)
 
-- 💻 learning coding...
+- 💻 still learning ...😄
 
 ## 🚀 Technologies
 
