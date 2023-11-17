@@ -3,6 +3,13 @@
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 <img align="right" alt="coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
+## 🚀 About Me
+I'm a Front End developer...
+
+🏫 BEIT (Bachelor of Engineering in Information Technology)
+
+💻 learning coding...
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas190401&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas190401" /> </p>
 
 
