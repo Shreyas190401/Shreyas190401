@@ -35,7 +35,7 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![mysql](https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![mysql](https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/git-bd2c00?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 
